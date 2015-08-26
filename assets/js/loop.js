@@ -77,8 +77,7 @@ jQuery( function($){
 			thumb_links: 0,				// Individual thumb links for each slide
 			slides:  	[				// Slideshow Images
 							
-							{image : 'assets/img/sliders/slider2.png', title : '<div class="hero-text"><h2 class="hero-heading">MIGHT GROUP for Start-up</h2><p>To Be Your Best EMS Partners</p></div>', thumb : '', url : ''},
-							
+							{image : 'assets/img/sliders/slider2.png', title : '<div class="hero-text"><h2 class="hero-heading">MIGHT GROUP for Start-up</h2><p>To Be Your Best EMS Partners</p></div>', thumb : '', url : ''}  
 						],
 		});
 

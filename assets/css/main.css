@@ -362,6 +362,10 @@ body {
 img {
   border: none;
 }
+.img-product{
+  max-width:100%;
+  height:auto;
+}
 
 #supersized-loader {
   position: absolute;
