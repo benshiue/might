@@ -77,7 +77,7 @@ jQuery( function($){
 			thumb_links: 0,				// Individual thumb links for each slide
 			slides:  	[				// Slideshow Images
 							
-							{image : 'assets/img/sliders/slider2.png', title : '<div class="hero-text"><h2 class="hero-heading">MIGHT GROUP for Start-up</h2><p>To Be Your Best EMS Partners</p></div>', thumb : '', url : ''}  
+							{image : 'assets/img/sliders/slider2.jpeg', title : '<div class="hero-text"><h2 class="hero-heading">幫新創團隊解決從 1 到 100 難題</h2><p>扭轉 80% 的創業失敗率成為你們的成功率。<br>並克服 90% 的硬體新創團隊無法在半年內成功設計、製造、出貨和行銷的問題。</p></div>', thumb : '', url : ''}  
 						],
 		});
 

@@ -89,8 +89,8 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 5px;
   padding-bottom: 5px;
   border-bottom: 2px solid rgba(0, 0, 0, 0);
-  font-size: 12px;
-  color: #646464;
+  font-size: 15px;
+  color: #777;
   font-weight: 700;
 }
 .navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
@@ -260,11 +260,12 @@ a:hover, a:focus {
 }
 .section-heading h2 {
   font-size: 3em;
-  color: #CC0000;
+  color: black;
+  font-weight: 600;
 }
 .section-heading p {
   font-size: 1.5em;
-  color: #c2c2c2;
+  color: #999999;
 }
 .section-heading hr {
   display: -moz-inline-stack;
@@ -278,7 +279,7 @@ a:hover, a:focus {
 }
 
 .section-content h3 {
-  color: #c2c2c2;
+  color: #777;
 }
 
 /* --------------------- */
@@ -7250,15 +7251,15 @@ img.mfp-img {
 .hero-unit .hero-content .hero-text .hero-heading,
 .hero-unit .hero-content .hero-text p {
   font-family: "Dosis", sans-serif;
-  color: #C63300;
-  font-weight: 500;
+  color: white;
+  font-weight: 600;
 }
 .hero-unit .hero-content .hero-text .hero-heading {
-  font-size: 6em;
+  font-size: 4em;
 }
 @media screen and (max-width: 768px) {
   .hero-unit .hero-content .hero-text .hero-heading {
-    font-size: 4em;
+    font-size: 3em;
   }
 }
 @media screen and (max-width: 480px) {
@@ -7447,6 +7448,7 @@ img.mfp-img {
 /* ------------------ SERVICES ------------------ */
 .service-item {
   margin-bottom: 60px;
+  text-align: center;
 }
 .service-item .service-icon {
   position: absolute;
