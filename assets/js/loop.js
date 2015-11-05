@@ -13,7 +13,7 @@ jQuery( function($){
 	/*----------------------/
 	/* MAIN NAVIGATION
 	/*---------------------*/
-		
+	/*	
 	$(window).on('scroll', function(){
 		if( $(window).width() > 1024 ) {
 			if( $(document).scrollTop() > 150 ) {
@@ -39,7 +39,7 @@ jQuery( function($){
 		toggleNavbar();	
 	});
 
-	
+	*/
 
 	// hide collapsible menu
 	$('.navbar-nav li a').click( function() {
